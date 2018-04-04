@@ -1,0 +1,9 @@
+{
+    "url": "https://drupalwebsite.com",
+    "username": "user",
+    "password": "password",
+    "bootstrap_css": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css",
+    "bootstrap_css_min": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
+    "bootstrap_js": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.js",
+    "bootstrap_js_min": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+}
