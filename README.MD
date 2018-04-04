@@ -1,4 +1,4 @@
-# Golang Chrome Automation using ChromeDP - Example repo
+# Golang Chrome Automation using ChromeDP
 
 [![Build Status](https://travis-ci.org/ribice/golang-chrome-automation.svg?branch=master)](https://travis-ci.org/ribice/golang-chrome-automation)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ribice/golang-chrome-automation)](https://goreportcard.com/report/github.com/ribice/golang-chrome-automation)
@@ -13,7 +13,7 @@ Detailed explanation is available as a blog-post on my website - [LINK](https://
 
 ## License
 
-golang-chrome-automation-example is licensed under the MIT license. Check the [LICENSE](LICENSE.md) file for details.
+golang-chrome-automation is licensed under the MIT license. Check the [LICENSE](LICENSE.md) file for details.
 
 ## Author
 
